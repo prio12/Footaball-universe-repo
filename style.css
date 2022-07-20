@@ -1,0 +1,60 @@
+/*------------- font style--------- */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lobster&family=Poppins:wght@400;500;700&family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*-----------------Top Banner design---------------------- */
+
+.top-banner {
+    background-color: black;
+    display: flex;
+    width: 1050px;
+    height: 580px;
+    margin-top:50px;
+    margin-left: 100px;
+    border-radius: 30px;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.half-width {
+    width: 50%;
+    color: white;
+}
+.half-width img {
+    width: 100%;
+    margin-top: 33px;
+    margin-right: 50px;
+    
+    
+}
+.half-width h1 {
+    font-size: 60px;
+}
+.description {
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    
+}
+.description p {
+    margin-top: 20px;
+}
+
+.watch-more-link {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    padding-right: 15px;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.fa-angle-right {
+    margin-left: 15px;
+}
+
+/* ----------------------Top banner design finshed------------------------- */
