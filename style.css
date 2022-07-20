@@ -58,3 +58,61 @@
 }
 
 /* ----------------------Top banner design finshed------------------------- */
+
+/* <!------------ side-bar and main box design-----------> */
+.container {
+    margin-top:50px;
+    margin-left: 100px;
+    display: flex;
+    width: 1050px;
+
+} 
+
+.blogs {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+
+.side-bar {
+    display: flex;
+    flex-direction: column;
+    width: 152px;
+    height: 152px;
+    background-color: black;
+    color: white;
+}
+
+.side-bar-content {
+    text-decoration: none;
+    color: white;
+    
+}
+
+
+.blog .thumbnail img {
+    width: 290px;
+    height: 165px;
+}
+
+.blog-detail {
+    margin-top: 20px;
+}
+.transfer-link {
+    text-decoration: none;
+    background-color: steelblue;
+    color: white;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.blog-info {
+    display: flex;
+}
+
+.flex-info-details {
+    margin-left: 16px;
+    margin-top: 20px;
+}
+
