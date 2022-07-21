@@ -1,10 +1,10 @@
 /*------------- font style--------- */
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lobster&family=Poppins:wght@400;500;700&family=Roboto&display=swap');
 
-/* * {
+* {
     margin: 0;
     padding: 0;
-} */
+}
 
 /*-----------------Top Banner style---------------------- */
 
@@ -51,6 +51,17 @@
     padding-right: 15px;
     text-decoration: none;
     border-radius: 4px;
+    border: 1px solid;
+    transition: opacity 1s linear 1s;
+    
+    
+}
+
+.watch-more-link:hover {
+    /* background-color: green; */
+    border: 0;
+    font-size: 20px;
+    opacity: 0.5;
 }
 
 .fa-angle-right {

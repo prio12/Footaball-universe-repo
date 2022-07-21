@@ -24,6 +24,9 @@
     width: 50%;
     color: white;
 }
+
+
+
 .half-width img {
     width: 100%;
     margin-top: 33px;
@@ -31,18 +34,29 @@
     
     
 }
+
+
+
 .half-width h1 {
     font-size: 60px;
 }
+
+
+
 .description {
     margin-top: 100px;
     margin-left: 50px;
     margin-bottom: 20px;
     
 }
+
+
+
 .description p {
     margin-top: 20px;
 }
+
+
 
 .watch-more-link {
     background-color: red;
@@ -52,6 +66,8 @@
     text-decoration: none;
     border-radius: 4px;
 }
+
+
 
 .fa-angle-right {
     margin-left: 15px;
@@ -70,6 +86,9 @@
     padding-top: 80px;
 
 } 
+
+
+
 .side-bar {
     display: flex;
     flex-direction: column;
@@ -78,6 +97,9 @@
     background-color: black;
     border-radius: 14px;
 }
+
+
+
 .upcoming-match {
     margin-top: 30px;
     margin-left: 15px;
@@ -90,6 +112,9 @@
     text-align: center;
     border-radius: 5px;
 }
+
+
+
 .all-group {
     margin-top: 30px;
     margin-left: 15px;
@@ -102,6 +127,9 @@
     text-align: center;
     border-radius: 5px;
 }
+
+
+
 .side-blog {
     margin-top: 30px;
     margin-left: 15px;
@@ -115,6 +143,7 @@
     border-radius: 5px;
 }
 
+
 .blog .thumbnail img {
     width: 80px;
     height: 60px;
@@ -124,6 +153,9 @@
 .thumbnail {
     display: flex;
 }
+
+
+
 .blogs {
     display: grid;
     grid-template-columns: repeat(3,1fr);
@@ -131,61 +163,19 @@
     margin-left: 20px;
 }
 
+
+
 .blog-detail {
     margin-left: 25px;
     font-weight: 700;
+
+
 }
 .blog-detail p {
     color: red;
 }
-/* .schedule .schedule-banner img {
-    width: 100px;
-    height: 80px;
-}
-.schedule .schedule-banner h3 {
-    display: inline;
-} */
- 
-/* .schedule-banner {
-    display: flex;
-} 
-
-.vs {
-   color: red;
-}  */
 
 
-/* .blogs {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-    margin-left: 20px;
-} */
-
-/* .blog .thumbnail img {
-    width: 260px;
-    height: 135px;
-} */
-
-/* .blog-detail {
-    margin-top: 20px;
-} */
-/* .transfer-link {
-    text-decoration: none;
-    background-color: steelblue;
-    color: white;
-    padding: 8px;
-    border-radius: 3px;
-} */
-
-/* .blog-info {
-    display: flex;
-} */
-
-/* .flex-info-details {
-    margin-left: 16px;
-    margin-top: 20px;
-} */
 
 /* <!------------ side-bar and main box style end-----------> */
 
