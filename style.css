@@ -179,6 +179,7 @@ footer h2 {
 
 hr {
     width: 80%;
+    margin-left: 100px;
     margin-top: 40px;
     opacity: 0.2;
 }
